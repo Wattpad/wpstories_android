@@ -6,13 +6,6 @@ We are excited to start the technical interview process for an Android engineer 
 This project fetches the list of stories using an endpoint and displays it in a `RecyclerView`.
 But it does it in a very inefficient way and we think it can be optimised.
 
-## Task
-Spend some time understanding the codebase. Then you need to find out all the problems/inefficiencies in this project and walk us through how you will optimise/refactor the project.
-Next, you need to implement one of the optimisation that you choose.
-
-
-To give you a better understanding of the requirement, here's a detailed explanation:
-
 ### Requirement:
 
 The goal of the coding challenge is to create an Android application that efficiently displays a large list of stories. The app should be able to handle a dataset of 10,000 stories and allow users to scroll through them smoothly without experiencing significant lag or performance issues. Use Jetpack Compose to build the UI and MVVM + CLEAN architecture as the primary design pattern.
